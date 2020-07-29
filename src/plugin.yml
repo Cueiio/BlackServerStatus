@@ -1,0 +1,8 @@
+name: BlackServerStatus
+author: Black
+main: black.server.Black
+
+version: 1.0
+commands:
+  status:
+  server:
